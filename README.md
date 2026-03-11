@@ -103,7 +103,7 @@ struct IlyasAlee {
 ## 🛸 Space Shooter Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/github-contribution-grid-space-shooter.svg" alt="space shooter contribution graph" width="100%"/>
+  <img src="game.gif" alt="space shooter contribution graph" width="100%"/>
 </div>
 
 ---
