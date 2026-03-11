@@ -102,7 +102,11 @@ struct IlyasAlee {
 
 ## 🛸 Space Shooter Contribution Graph
 
-![My GitHub Game](game.gif)
+<div align="center">
+
+![Space Shooter](game.gif)
+
+</div>
 
 ---
 
