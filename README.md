@@ -102,13 +102,17 @@
 
 ---
 
-## 🛸 Space Shooter — Contribution Graph
+## 🛸 Contribution Graph — Space Invaders
 
 <div align="center">
 
-> *Every commit is a bullet. Every streak is a wave cleared.*
+> *Every contribution square is an invader. The ship clears them oldest first.*
 
-<img src="game.gif" alt="space shooter contribution graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders.svg" />
+  <img alt="space invaders contribution grid" src="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders.svg" width="100%"/>
+</picture>
 
 </div>
 
