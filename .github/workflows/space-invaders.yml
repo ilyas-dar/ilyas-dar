@@ -27,3 +27,21 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # bust GitHub's image cache: rewrite the ?v= query param in README.md
+      # to this run's number, so the embedded image URL changes every run
+      # and camo has to fetch the new file instead of serving a stale copy
+      - name: bump cache-busting query param
+        run: |
+          sed -i "s/invaders\(-dark\)\?\.svg?v=[0-9]*/invaders\1.svg?v=${{ github.run_number }}/g" README.md
+          if git diff --quiet README.md; then
+            echo "no change"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: bust cache for invaders svg (run ${{ github.run_number }})"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
