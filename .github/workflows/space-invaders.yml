@@ -18,6 +18,7 @@ jobs:
       - uses: UltimateStrength/space-invaders-contributions@v1
         with:
           github_user_name: ilyas-dar
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/invaders.svg
             dist/invaders-dark.svg?palette=github-dark
