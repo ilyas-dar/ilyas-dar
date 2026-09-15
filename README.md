@@ -1,59 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,40:1a0533,100:0a0a1a&height=250&section=header&text=ILYAS%20ALEE&fontSize=75&fontColor=c084fc&fontAlignY=40&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Systems%20%E2%80%A2%20Embedded&descAlignY=60&descSize=20&animation=blinking&stroke=7c3aed&strokeWidth=2" width="100%"/>
+<img src="terminal-intro.svg" alt="terminal intro" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=700&lines=3rd+Year+CSE+%7C+AI+%26+ML+Specialization;Building+OS+internals+from+scratch;ESP32+%7C+Research+%7C+Competitive+Prog.;From+bootloaders+to+neural+nets+%F0%9F%A7%A0;Ship+it.+Learn.+Repeat." alt="Typing SVG" />
-
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ilyas-dar&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&labelColor=0a0a1a" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/ilyas-dar?label=FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=0a0a1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI%26ML)-LPU-7c3aed?style=for-the-badge&labelColor=0a0a1a" />
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🔭 What I'm Working On
 
-## `~/whoami`
+> 🌍 **[LocalVoice-SDG — Multilingual NLP for Social Good](https://github.com/ilyas-dar)** *(Nov 2025 – Present)*
+> End-to-end pipeline mapping rural community feedback in Hindi, Punjabi, and English to the 17 UN Sustainable Development Goals. PDF extraction → auto-annotation → NLLB-200 translation → XLM-RoBERTa multi-label classification, fine-tuned on 1,238 curated samples from 10 Indian government scheme documents.
+> **0.82 Micro-F1 · 0.81 Macro-F1 · 0.84 Weighted-F1** on held-out test data.
 
-```cpp
-class IlyasAlee {
-public:
-    const string degree   = "B.Tech CSE (AI & ML) — 3rd Year";
-    const string location = "India 🇮🇳";
-    const string research = "BYOD Classroom Productivity Framework → IEEE";
-    const string patent   = "AI-based patent — in progress 🔬";
+> 🧠 **[Securing BYOD Productivity in Classroom](https://github.com/ilyas-dar/classpuls-Securing-BYOD-Productivity-in-Classroom)** *(Jun 2025 – Aug 2025)*
+> ML classification system distinguishing productive from non-productive device usage in BYOD-enabled classrooms. Benchmarked Logistic Regression, Random Forest, SVM, and Gradient Boosting with full feature engineering and evaluation pipeline; results packaged as an IEEE-style research paper.
 
-    vector<string> currently = {
-        "⚙️  Retro OS Dev (C / C++ / Assembly)",
-        "🧠  Competitive Programming grind",
-        "📡  Embedded systems & hardware builds",
-        "📄  GitHub portfolio + research publications"
-    };
+> 🖥️ **[Retro OS Development](https://github.com/ilyas-dar/OS-development-)**
+> Building an operating system from the ground up — bootloader → scheduler → memory management → filesystem → terminal — in pure C, C++, and Assembly.
 
-    string ask_me_about = "C++, IoT, ML, OS internals";
-    string reach_me_at  = "aleeilyas14@gmail.com";
-    string fun_fact     = "QWERTY keyboard was designed to slow you down.";
-};
-```
+> 🛸 **ESP32 Game Suite + Radar/IoT**
+> Space Battle, Dino Runner, and Flappy Bird running on ESP32 with OLED displays, joystick input, and custom sprite animation, plus a DHT11 + LDR sensor-fusion radar streaming live to Blynk.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🔭 What I'm Working On
+## 🏅 Research & Recognition
 
-> 🧠 **[ClassPuls — BYOD Productivity Framework](https://github.com/ilyas-dar/classpuls-Securing-BYOD-Productivity-in-Classroom)** — Predicts student productivity from behavioral signals using Logistic Regression + Random Forest. IEEE-style paper with full system architecture, math, and visualizations.
+| | |
+|---|---|
+| 🔬 **Patent** | Inventor, Indian Patent Office — decentralized swarm-intelligence framework for disaster management (App. No. 2020511052485), pending publication |
+| 🏆 **Adobe India Hackathon 2025** | Competed as part of Team Wizards, national-level assessment |
+| 🏆 **Pentaomnia Hackathon** | Advanced to Round 2 |
+| 📜 **Certifications** | AI Fundamentals (2026) · Fundamentals of Data Structures (2025) · Python (Basic), HackerRank (2023) |
+| 💻 **DSA** | 100+ problems solved across LeetCode, GeeksforGeeks, and HackerRank |
 
-> 🖥️ **[Retro OS Development](https://github.com/ilyas-dar/OS-development-)** — Building an OS from scratch. Bootloader → scheduler → memory management → filesystem → terminal. Pure C, C++, Assembly.
-
-> 🛸 **ESP32 Game Suite** — Space Battle, Dino Runner, Flappy Bird — all on microcontrollers with OLED displays, joystick input, buzzers, custom sprite animations.
-
-> 📡 **[ESP32 Radar + IoT](https://github.com/ilyas-dar/ESP32-Radar-System)** — Sensor fusion with DHT11 + LDR feeding into OLED and Blynk app in real time.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -61,22 +49,22 @@ public:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,linux,bash,git,vscode&theme=dark&perline=8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,flask,github&theme=dark&perline=8" />
-
-<br/><br/>
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -84,7 +72,6 @@ public:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -104,28 +91,6 @@ public:
 
 ---
 
-## 📈 Activity & Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyas-dar&theme=tokyonight" height="180"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilyas-dar&theme=tokyonight" height="180"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilyas-dar&theme=tokyonight" height="180"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilyas-dar&theme=tokyonight" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyas-dar&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=a855f7&line=7c3aed&point=c084fc" width="100%"/>
-
-</div>
-
----
-
 ## 🏆 Trophies
 
 <div align="center">
@@ -134,7 +99,6 @@ public:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -148,7 +112,12 @@ public:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🎓 Education
+
+**Lovely Professional University**, Punjab, India — B.Tech CSE (AI & ML), CGPA 7.14 · Aug 2023 – Present
 
 ---
 
@@ -158,10 +127,6 @@ public:
 
 <a href="https://linkedin.com/in/ilyasdar">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/ilyas_alee_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/ily_asalee">
@@ -182,4 +147,4 @@ public:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,50:1a0533,100:0a0a1a&height=140&section=footer&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,50:1a0533,100:0a0a1a&height=140&section=footer" width="100%"/>
