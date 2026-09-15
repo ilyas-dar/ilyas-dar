@@ -72,23 +72,6 @@
 
 </div>
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ilyas-dar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=a855f7&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github&include_all_commits=true" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas-dar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=a855f7&text_color=e2e8f0&langs_count=8" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyas-dar&theme=tokyonight&hide_border=true&background=0a0a1a&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideLabels=a855f7&dates=64748b" height="180"/>
-
-</div>
-
 ---
 
 ## 🏆 Trophies
@@ -109,9 +92,9 @@
 > *Every contribution square is an invader. The ship clears them oldest first.*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders.svg" />
-  <img alt="space invaders contribution grid" src="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders.svg?v=1" />
+  <img alt="space invaders contribution grid" src="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders.svg?v=1" width="100%"/>
 </picture>
 
 </div>
