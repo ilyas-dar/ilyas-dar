@@ -92,9 +92,9 @@
 > *Every contribution square is an invader. The ship clears them oldest first.*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders-dark.svg?v=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders.svg?v=1" />
-  <img alt="space invaders contribution grid" src="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders.svg?v=1" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders-dark.svg?v=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders.svg?v=6" />
+  <img alt="space invaders contribution grid" src="https://raw.githubusercontent.com/ilyas-dar/ilyas-dar/output/invaders.svg?v=6" width="100%"/>
 </picture>
 
 </div>
